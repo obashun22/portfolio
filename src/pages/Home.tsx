@@ -1,8 +1,9 @@
 import React from 'react';
+import '../styles/Home.sass';
 
 function Home() {
   return (
-    <div>
+    <div className="">
       Hello
     </div>
   );
